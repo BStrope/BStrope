@@ -3,7 +3,7 @@
 - I am currently learning genetics/genomics through a master's program and learning Python in my free time
 - I have only begun recently, so most of the work is at the novice/intermediate phase
 - I’m currently learning bayesian statistics and statistical learning.
-I will begin masters level thesis research on mRNA sequencing, tcRNA sequencing, and identifying new neoantigens in cancer cells for antibody/drug development purposes
+I will begin masters level thesis research on ESBL-E 
 
 - How to reach me... bstrpoe15@gmail.com
 
