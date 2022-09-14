@@ -1,4 +1,6 @@
-- How to reach me... bstrpoe15@gmail.com
+- How to reach me: bstrpoe15@gmail.com
+
+- DockerHub: Bstrope
 
 <!---
 BStrope/BStrope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
